@@ -32,14 +32,14 @@ const ProductView = () => {
       title: "Sports hoodie",
       description: "This is L size hoodie",
       price: 20.99,
-      image: "/images/jacket1.png",
+      image: "/images/product3.png",
     },
     {
       id: 4,
       title: "Pant",
       description: "This a M-size pant",
       price: 20.99,
-      image: "/images/product3.png",
+      image: "/images/product4.png",
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ const ProductView = () => {
       title: "Torn jeans",
       description: "This is M-size torn jeans",
       price: 20.99,
-      image: "/images/jacket2.png",
+      image: "/images/jeans2.png",
     },
     {
       id: 7,
