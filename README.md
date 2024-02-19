@@ -1,5 +1,16 @@
 # shopwithaffindi 
 
+This project is built upon Affinidi Capstone as its foundation. It integrates Affinidi's login system and data retrieval from the Affinidi vault. The application features five main components, relying on various Affinidi products such as Affinidi Portal, Affinidi Vault, and a custom PEX file for user authentication.
+
+Within the shopping website, Next.js framework is utilized for a smooth and reliable user experience. The project encompasses three primary features:
+
+Add to Cart Button: This button enables users to add items to their shopping cart.
+Remove from Cart Button: Users can utilize this button to remove items from their cart.
+View Button: This feature allows users to access a comprehensive view of a product along with its description.
+Additionally, the Checkout button in the cart menu is a crucial feature. It seamlessly integrates user credentials from the Affinidi vault, enabling users to proceed with the checkout process.
+
+
+
 /**
  * DrawerComponent is a React component that renders a drawer with the user's
  * shopping cart items.
